@@ -1,0 +1,110 @@
+/*stylesheet caixa de menus*/
+
+#menu-box{
+    background-color: white;
+    width: auto;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.div{
+
+    height: 50px;
+    border-radius: 5px;
+    float: right;
+}
+
+#menu-box-label1{
+    width: 12%;
+
+}
+
+#menu-box-label2{
+    width: 12%;
+
+}
+
+#menu-box-label3{
+    width: 30%;
+
+}
+
+#menu-box-label4{
+    width: 46%;
+}
+
+
+#menu-login{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: auto;
+    height: 50px;
+    text-align: center;
+    text-shadow: 0px 1px 1px white;
+    font: bold 15px/50px "Open Sans";
+    color: #555555;
+}
+
+#menu-login:hover{
+    border-bottom: 5px solid #CC0000;
+    cursor: pointer;
+}
+
+#menu-registrar{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: auto;
+    height: 50px;
+    text-align: center;
+    text-shadow: 0px 1px 1px white;
+    font: bold 15px/50px "Open Sans";
+    color: #555555;
+}
+
+#menu-registrar:hover{
+    border-bottom: 5px solid #CC0000;
+    cursor: pointer;
+}
+
+#menu-buscar{
+
+    width: 85%;
+    height: 35px;
+    text-align: left;
+    text-shadow: 0px 1px 1px white;
+    font: bold 12px/50px "Open Sans";
+    color: #AAAAAA;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 1px #777777;
+    outline: none;
+    padding-left: 25px;
+}
+
+#logo{
+    width: 32px;
+    height: 45px;
+    margin-left: 45px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+}
+
+#titulo{
+    margin-right: 150px;
+    margin-top: 5px;
+    float: right;
+    font: bold 15px "Open Sans";
+    outline: none;
+    link: none;
+}
+
+#subtitulo{
+
+    font: normal 15px "Open Sans";
+    margin-bottom: 5px;
+
+}
+
